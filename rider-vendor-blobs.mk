@@ -16,6 +16,12 @@
 
 # Prebuilt libraries that are needed to build open-source libraries
 PRODUCT_COPY_FILES += \
+	vendor/htc/rider/proprietary/app/GooglePinyinIME.apk:system/app/GooglePinyinIME.apk \
+	vendor/htc/rider/proprietary/app/FileManager.apk:system/app/FileManager.apk \
+	vendor/htc/rider/proprietary/lib/libjni_googlepinyinime_5.so:system/lib/libjni_googlepinyinime_5.so \
+	vendor/htc/rider/proprietary/lib/libjni_googlepinyinime_latinime_5.so:system/lib/libjni_googlepinyinime_latinime_5.so
+
+PRODUCT_COPY_FILES += \
 	vendor/htc/rider/proprietary/lib/libacdbloader.so:obj/lib/libacdbloader.so \
 	vendor/htc/rider/proprietary/lib/libacdbmapper.so:obj/lib/libacdbmapper.so \
 	vendor/htc/rider/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so
