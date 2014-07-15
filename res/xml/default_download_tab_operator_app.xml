@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pagemenuApps
+  xmlns:launcher="http://schemas.android.com/apk/res/com.lge.launcher2.theme.optimus">
+    <pageApp launcher:appComponentName="com.android.vending/.AssetBrowserActivity" />
+</pagemenuApps>

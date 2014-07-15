@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_feature_hotseat_max_item">7</integer>
+    <integer name="config_feature_hotseat_hide_itemcount">7</integer>
+    <integer name="config_feature_hotseat_hide_itemcount_land">6</integer>
+</resources>

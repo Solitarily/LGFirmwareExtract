@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lg_homeplus_default_website">
+        <item>http://ai.gdms.lge.com/mo.html</item>
+    </string-array>
+    <string-array name="lg_folder_color_list">
+        <item>sp_lgfolder_color_yellow_NORMAL</item>
+        <item>sp_lgfolder_color_green_NORMAL</item>
+        <item>sp_lgfolder_color_aqua_NORMAL</item>
+        <item>sp_lgfolder_color_seagreen_NORMAL</item>
+        <item>sp_lgfolder_color_skyblue_NORMAL</item>
+        <item>sp_lgfolder_color_violet_NORMAL</item>
+        <item>sp_lgfolder_color_salmon_NORMAL</item>
+        <item>sp_lgfolder_color_pink_NORMAL</item>
+        <item>sp_lgfolder_color_orange_NORMAL</item>
+        <item>sp_lgfolder_color_gray_NORMAL</item>
+    </string-array>
+    <string-array name="rename_origin">
+        <item>QuickTranslator</item>
+    </string-array>
+    <string-array name="rename_new">
+        <item>Quick Translator</item>
+    </string-array>
+    <string-array name="config_feature_default_theme">
+        <item>com.lge.launcher2.theme.optimus</item>
+    </string-array>
+    <string-array name="menu_bg">
+        <item>lg_topmenu_wallpaper_bg</item>
+        <item>lg_topmenu_wallpaper_w_waterdrop</item>
+        <item>lg_topmenu_wallpaper_w_paper</item>
+        <item>lg_topmenu_wallpaper_w_feather</item>
+        <item>lg_topmenu_wallpaper_b_darkness</item>
+    </string-array>
+    <string-array name="menu_bg_label">
+        <item>Transparent</item>
+        <item>Water Drop</item>
+        <item>Paper</item>
+        <item>Feather</item>
+        <item>Darkness</item>
+    </string-array>
+    <string-array name="menu_bg_label_color">
+        <item>lg_white_color</item>
+        <item>lg_black_color</item>
+        <item>lg_black_color</item>
+        <item>lg_black_color</item>
+        <item>lg_white_color</item>
+    </string-array>
+    <string-array name="wallpapers">
+        <item>wallpaper_01</item>
+    </string-array>
+</resources>
