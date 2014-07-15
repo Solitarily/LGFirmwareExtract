@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<excludeapps
-  xmlns:launcher="http://schemas.android.com/apk/res/com.lge.launcher2.theme.optimus">
-    <app launcher:appName="com.lge.settings.easy.EasySettings" />
-</excludeapps>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<workspaceinfomation
-  xmlns:launcher="http://schemas.android.com/apk/res/com.lge.launcher2.theme.optimus">
-    <workspaceinfo launcher:screenNum="7" launcher:defalutScreen="3" />
-</workspaceinfomation>

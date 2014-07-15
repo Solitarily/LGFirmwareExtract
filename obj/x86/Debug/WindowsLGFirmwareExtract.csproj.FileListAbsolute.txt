@@ -1,0 +1,11 @@
+E:\Users\Administrator\Desktop\LGFirmwareExtract\bin\Debug\LG固件提取工具.exe.config
+E:\Users\Administrator\Desktop\LGFirmwareExtract\bin\Debug\LG固件提取工具.exe
+E:\Users\Administrator\Desktop\LGFirmwareExtract\bin\Debug\LG固件提取工具.pdb
+E:\Users\Administrator\Desktop\LGFirmwareExtract\obj\x86\Debug\WindowsLGFramwareExtract.AboutBox1.resources
+E:\Users\Administrator\Desktop\LGFirmwareExtract\obj\x86\Debug\WindowsLGFramwareExtract.Form1.resources
+E:\Users\Administrator\Desktop\LGFirmwareExtract\obj\x86\Debug\WindowsLGFramwareExtract.FormDialogBoxPartition.resources
+E:\Users\Administrator\Desktop\LGFirmwareExtract\obj\x86\Debug\WindowsLGFirmwareExtract.csproj.GenerateResource.Cache
+E:\Users\Administrator\Desktop\LGFirmwareExtract\obj\x86\Debug\LG固件提取工具.exe
+E:\Users\Administrator\Desktop\LGFirmwareExtract\obj\x86\Debug\LG固件提取工具.pdb
+E:\Users\Administrator\Desktop\LGFirmwareExtract\obj\x86\Debug\WindowsLGFirmwareExtract.Properties.Resources.resources
+E:\Users\Administrator\Desktop\LGFirmwareExtract\obj\x86\Debug\WindowsLGFirmwareExtract.csprojResolveAssemblyReference.cache
